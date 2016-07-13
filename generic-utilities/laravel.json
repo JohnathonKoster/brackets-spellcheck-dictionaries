@@ -1,0 +1,47 @@
+{
+    "name": "laravel",
+    "ignoreMode": [
+        "Mode.all"
+    ],
+    "ignoreWhenDocumentContains": [
+        " Laravel ",
+        "Laravel ",
+        "'Laravel'",
+        " Laravel.",
+        "Illuminate\\"
+    ],
+    "ignore": [
+        "config",
+        "app",
+        "App",
+        "admin",
+        "lang",
+        "'lang",
+        "Laravel",
+        "Laravel's",
+        "addNamespace",
+        "namespace",
+        "app",
+        "Symfony",
+        "Symfony's",
+        "fallback",
+        "setFallback",
+        "Str",
+        "ascii",
+        "Str",
+        "studly",
+        "diff",
+        "api",
+        "prepend",
+        "desc",
+        "diffKeys",
+        "isset",
+        "HtmlString",
+        "hmac",
+        "Encrypter",
+        "encrypter",
+        "McryptEncrypter",
+        "mcrypt",
+        "Http"
+    ]
+}

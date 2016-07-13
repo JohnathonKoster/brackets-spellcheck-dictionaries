@@ -1,0 +1,8 @@
+{
+    "name": "html_entities",
+    "ignoreAfter": "&",
+    "ignore": [
+        "mdash",
+        "reg"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "profile": "stillat",
+    "name": "Sillat (www.stillat.com)",
+    "description": "Various dictionaries to aid in writing for www.stillat.com",
+    "items": [
+        { "name": "en_US" },
+        { "name": "peopleIKnow" }
+    ]
+}

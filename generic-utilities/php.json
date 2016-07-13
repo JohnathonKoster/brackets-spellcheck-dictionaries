@@ -1,0 +1,36 @@
+{
+    "name": "php",
+    "ignoreMode": [
+        "Mode.all",
+        "php"
+    ],
+    "ignoreWhenDocumentContains": [
+        "<?php",
+        "```php",
+        "language=php",
+        "env("
+    ],
+    "ignore": [
+        "php",
+        "namespace",
+        "Namespace",
+        "Namespaces",
+        "namespaces",
+        "strtoupper",
+        "strtolower",
+        "md5",
+        "ucfirst",
+        "multibyte",
+        "Multibyte",
+        "mb",
+        "str",
+        "openssl",
+        "preg",
+        "args",
+        "os",
+        "html",
+        "env",
+        "env(",
+        "localhost"
+    ]
+}

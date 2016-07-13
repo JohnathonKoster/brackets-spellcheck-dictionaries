@@ -1,0 +1,16 @@
+{
+    "name": "jslint",
+    "ignoreMode": [
+        "Mode.all"
+    ],
+    "ignoreWhenDocumentContains": [
+        "/*jslint "  
+    ],
+    "ignore": [
+        "jslint",
+        "plusplus",
+        "devel",
+        "nomen",
+        "maxerr"
+    ]
+}
