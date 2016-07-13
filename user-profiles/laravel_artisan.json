@@ -1,9 +1,0 @@
-{
-    "profile": "laravel_artisan",
-    "name": "Laravel Artisan",
-    "description": "The profile used to write Laravel Artisan",
-    "items": [
-        { "name": "en_US" },
-        { "name": "en_GB" }
-    ]
-}
