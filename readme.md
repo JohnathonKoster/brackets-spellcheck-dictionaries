@@ -1,5 +1,7 @@
 # Linguistics Dictionary
 
+> **Important Installation Notes**: Simply copy and paste the entire `stillat.linguistics-dictionary` directory into Bracket's user extensions folder. The spellchecker requires that specific path. If the spellchecker is not finding your dictionaries, it is most likely the path name being incorrect.
+
 The Linguistics Dictionary extension contains the dictionaries required for the main Adobe Brackets spell checker  extension (which can be found at https://github.com/JohnathonKoster/brackets-spellcheck). The extension is separated into various different parts, based on how each part is expected to be used; there are four main directories to the Dictionary extension:
 
 * `natural-languages` - This directory is used to store natural language dictionaries. For example, this directory would contain an English dictionary, and any variations or dialects.
